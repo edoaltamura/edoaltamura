@@ -18,7 +18,7 @@ I am a strong advocate of open-source software and I therefore make my personal 
 If you think part or my work would benefit your studies or projects (perhaps after some further development), please do not hesitate in getting in touch and discuss a potential collaboration. Provided that studies are science-related and data-driven, I am happy to discuss contributions to fields beyond those in the `research_areas` list.
 
 ## `$ ping edoaltamura`
-E-mail me at <edoardo.altamura@manchester.ac.uk>
+Reach out to me at <edoardo.altamura@manchester.ac.uk>
 
 ![Edo's github stats](https://github-readme-stats.vercel.app/api?username=edoaltamura)
 
