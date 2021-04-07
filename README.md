@@ -22,6 +22,8 @@ Reach out to me at <edoardo.altamura@manchester.ac.uk>
 
 ![Edo's github stats](https://github-readme-stats.vercel.app/api?username=edoaltamura)
 
+![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=compact)]
+
 <!--
 **edoaltamura/edoaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
