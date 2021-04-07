@@ -20,9 +20,14 @@ If you think part or my work would benefit your studies or projects (perhaps aft
 ## `$ ping edoaltamura`
 Reach out to me at <edoardo.altamura@manchester.ac.uk>
 
-![Edo's github stats](https://github-readme-stats.vercel.app/api?username=edoaltamura)
+## `$ top -u edoaltamura`
+Some statistics about my activity on GitHub.
+> # General statistics
+> ![Edo's github stats](https://github-readme-stats.vercel.app/api?username=edoaltamura)
+> # Most used languages
+> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=compact)]
 
-![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=compact)]
+Note: Does not include workflow outside of GitHub, e.g. HPC GitLab servers.
 
 <!--
 **edoaltamura/edoaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
