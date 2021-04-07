@@ -24,6 +24,7 @@ Reach out to me at <edoardo.altamura@manchester.ac.uk>
 Some statistics about my activity on GitHub.
 > # General statistics
 > ![Edo's github stats](https://github-readme-stats.vercel.app/api?username=edoaltamura)
+
 > # Most used languages
 > ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=compact)]
 
