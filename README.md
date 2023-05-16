@@ -1,39 +1,27 @@
-### Hi there 👋 welcome to my GitHub. 
+### Hi there! 👋 welcome to my Project Hub. 
 
-I am a computational astrophysicist Jodrell Bank Centre for Astrophysics and the University of Manchester. I collaborate with the Virgo Consortium of Computational Cosmology Research and the ExCALIBUR program.
+I am a researcher in numerical multi-physics simulations with high-performance computers (HPC). As an astrophysicist by training, I work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK), and collaborate with the Virgo Consortium of Computational Cosmology Research and the Particles At heXascale program. My research focuses on galaxy evolution through cosmic time, and the thermodynamic environments of groups and massive clusters of galaxies.
 
-My research areas and interests include:
-- Simulations based on Smoothed Particle Hydrodinamics
+#### My interests:
+- Data science pipelines at scale (100+TB)
+- Software engineered for HPC infrastructures
+- Optimization of HPC performance on parallel simulations
+- Quantum computing, machine learning and sustainability
+- Hydrodynamic simulations
 - Sub-grid physics schemes
-- AGN feedback and coupling between BHs and large-scale ISM
-- Kinetic Sunyaev-Zel'dovich effect and hot-IGM dynamics
-- HPC infrastructures for massively parallel simulations (weak-scaling and profiling)
-- Software development for heterogeneous HPC systems
+- Entropy distribution in clusters of galaxies
+- AGN feedback coupling between black holes and their environments
+- Sunyaev-Zeldovich effects
 
-# 💡 Open source statement
-I am a strong advocate of open-source software and I make my personal contributions publicly accessible wherever possible. If you plan on using pieces of software from my repositories, please acknowledge the source or include a citation as appropriate.
+# 🌍 Open-source
+I am passionately committed to the principles of open science and open data, viewing them as the drivers of impactful innovation and discovery. My mission is to foster a collaborative scientific community, where the boundaries of knowledge are continually expanded through the free exchange of ideas and acknowledgemnt of intellectual property.
 
-# 🎯 Team-up 
-If you think part or my work would benefit your studies or projects (perhaps after some further development), please do not hesitate in getting in touch and discuss a potential collaboration. Provided that studies are science-related and data-driven, I am happy to discuss contributions to fields beyond those in the list above.
+If you use software or data from my repositories, please acknowledge the source or include a citation as appropriate. I include citation guidelines in the `README` file - get in touch for further details or enquiries.
 
-# 📨 Ping me at <edoardo.altamura@manchester.ac.uk>
+# 🤝 Team-up 
+Thanks for viewing my profile and exploring my work! These projects thrive on the diversity and dynamism of open-source collaboration. Whether you're a seasoned coder or a curious beginner, your ideas and input could be the key to unlocking the next level of our development. So please, delve into the code ☕, experiment, share your thoughts, and most importantly, ✨*get in touch!* ✨ I can't wait to see the unique perspective you'll bring to our collective journey through open science.
 
-> ![Edo's github stats](https://github-readme-stats.vercel.app/api?username=edoaltamura)
-
+#### 📫 Ping me at <edoardo.altamura@manchester.ac.uk>
+#
+# 📊 Statistics
 > ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=compact)
-
-
-<!--
-**edoaltamura/edoaltamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
