@@ -24,4 +24,4 @@ Thanks for viewing my profile and exploring my work! These projects thrive on th
 #### 📫 Ping me at <edoardo.altamura@manchester.ac.uk>
 #
 # 📊 Statistics
-> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=normal)
+> ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=donut)
