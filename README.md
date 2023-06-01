@@ -1,6 +1,11 @@
 ### Hi there! 👋 welcome to my Project Hub. 
 
-I am a researcher in numerical multi-physics simulations with high-performance computers (HPC). As an astrophysicist by training, I work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK), and collaborate with the Virgo Consortium of Computational Cosmology Research and the Particles At heXascale program. My research focuses on galaxy evolution through cosmic time, and the thermodynamic environments of groups and massive clusters of galaxies.
+I am a researcher in numerical multi-physics simulations with high-performance computers (HPC). As an astrophysicist by training, I work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK), and collaborate with the:
+- 🌌 Virgo Consortium of Computational Cosmology Research 
+- 🖧 Particles At heXascale (PAX) program
+- 🛰️ Euclid space mission Consortium
+
+My research focuses on galaxy evolution through cosmic time, and the thermodynamic environments of groups and massive clusters of galaxies.
 
 #### My interests:
 - Data science pipelines at scale (100+TB)
@@ -14,7 +19,7 @@ I am a researcher in numerical multi-physics simulations with high-performance c
 - Sunyaev-Zeldovich effects
 
 # 🌍 Open-source
-I am passionately committed to the principles of open science and open data, viewing them as the drivers of impactful innovation and discovery. My mission is to foster a collaborative scientific community, where the boundaries of knowledge are continually expanded through the free exchange of ideas and acknowledgemnt of intellectual property.
+I am passionately committed to the principles of _open science_ and _open data_, viewing them as the drivers of impactful innovation and discovery. My mission is to foster a collaborative scientific community, where the boundaries of knowledge are continually expanded through the free exchange of ideas and acknowledgemnt of intellectual property.
 
 If you use software or data from my repositories, please acknowledge the source or include a citation as appropriate. I include citation guidelines in the `README` file - get in touch for further details or enquiries.
 
