@@ -2,7 +2,7 @@
 
 I am a researcher in numerical multi-physics simulations with high-performance computers (HPC). I am a physicist by training and work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK) in collaboration with:
 - 🌌 [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research 
-- 🖧 Particles At heXascale (PAX) program in [ExCALIBUR](https://excalibur.ac.uk/)
+- 🖧  Particles At heXascale (PAX) program in [ExCALIBUR](https://excalibur.ac.uk/)
 - 🛰️ [Euclid](https://www.euclid-ec.org/) space mission Consortium
 - 📡 [CMB Stage-4](https://cmb-s4.org/) experiments Collaboration 
 
