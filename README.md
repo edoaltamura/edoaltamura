@@ -1,6 +1,6 @@
-### Hi there! 👋 welcome to my Project Hub. 
+### Hi there! 👋 Welcome to my Project Hub. 
 
-I am a researcher in numerical multi-physics simulations with high-performance computers (HPC). I am a physicist by training and work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK) in collaboration with:
+I am a research fellow in high-performance computing (HPC) and numerical multi-physics simulations. I am a physicist by training and work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK) in collaboration with:
 - 🌌 [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research 
 - 🖧  Particles At heXascale (PAX) program in [ExCALIBUR](https://excalibur.ac.uk/)
 - 🛰️ [Euclid](https://www.euclid-ec.org/) space mission Consortium
@@ -10,6 +10,7 @@ My research focuses on galaxy evolution through cosmic time, and the thermodynam
 
 #### My interests:
 - Data science pipelines at scale (100+TB)
+- Sustainability and climate welfare
 - Software engineered for HPC infrastructures
 - Optimization of HPC performance on parallel simulations
 - Quantum computing, machine learning and sustainability
