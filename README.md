@@ -1,4 +1,4 @@
-### Hi there! 👋 Welcome to my Project Hub. 
+## Hi there! 👋 Welcome to my Project Hub. 
 
 I am a research fellow in high-performance computing (HPC) and numerical multi-physics simulations. I am a physicist by training and work at the Jodrell Bank Centre for Astrophysics (University of Manchester, UK) in collaboration with:
 - 🌌 [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research 
@@ -6,9 +6,14 @@ I am a research fellow in high-performance computing (HPC) and numerical multi-p
 - 🛰️ [Euclid](https://www.euclid-ec.org/) space mission Consortium
 - 📡 [CMB Stage-4](https://cmb-s4.org/) experiments Collaboration 
 
+# 📐 What I am designing
+- **[SWIFTzoom](https://github.com/edoaltamura/swiftzoom/tree/main)** is an agile library to automate analyses of zoom-in numerical @SWIFTSIM simulations, so that you can invest more in and accelerate ⚡ your science.
+- **[Vikhlinin](https://github.com/edoaltamura/vikhlinin)** is a tool-kit to fit multi-dimensional analytic models to radial profiles 📉 in cosmological simulations. The best part? For the first time, you will be presented with _interpretable_ and _reproducible_ results, topped up with guidelines to share your workflow in your publications.
+- **Hourglass** is coming soon! ⌛️ Look at the radial distribution of gas through a new lens. Build interpretable radial profiles and probe the baryonic physics shaping your galaxies.  
+
 My research focuses on galaxy evolution through cosmic time, and the thermodynamic environments of groups and massive clusters of galaxies.
 
-#### My interests:
+# 💡 What interests me
 - Data science pipelines at scale (100+TB)
 - Sustainability and climate welfare
 - Software engineered for HPC infrastructures
