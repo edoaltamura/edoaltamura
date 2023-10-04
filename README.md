@@ -8,7 +8,7 @@ I am a research fellow in high-performance computing (HPC) and numerical multi-p
 
 # 📐 What I am designing
 - **[SWIFTzoom](https://github.com/edoaltamura/swiftzoom/tree/main)** is an agile library to automate analyses of zoom-in numerical @SWIFTSIM simulations, so that you can invest more in and accelerate ⚡ your science.
-- **[SWprofile](https://github.com/edoaltamura/profile/tree/main)** is a toolkit to produce radial profiles 📉 of one or more objects from cosmological simulations. The best part? For the first time, you will be presented with _interpretable_ and _reproducible_ results, topped up with guidelines to share your workflow in your publications. As a bonus, it comes with features to fit multi-dimensional analytic models.
+- **[SWprofile](https://github.com/edoaltamura/profile/tree/main)** (nearly ready for official release!) is a toolkit to produce radial profiles 📉 of one or more objects from cosmological simulations. The best part? For the first time, you will be presented with _interpretable_ and _reproducible_ results, topped up with guidelines to share your workflow in your publications. As a bonus, it comes with features to fit multi-dimensional analytic models.
 - **Hourglass** (part of _SWprofile_) is coming soon! ⌛️ Look at the radial distribution of gas through a new lens. Build interpretable radial profiles and probe the baryonic physics shaping your galaxies.
 - **SWconnect** is coming soon! Organise the metadata, I/O files and workflow intermediate files of your complex simulation project in a systematic, memorable way. No more need to treasure-hunt for your cooling tables or output list!  
 
