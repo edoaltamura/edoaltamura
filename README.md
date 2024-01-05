@@ -38,4 +38,5 @@ Thanks for viewing my profile and exploring my work! These projects thrive on th
 #### 📫 Ping me at <edoardo.altamura@manchester.ac.uk>, and follow me on LinkedIn at [/in/edoardoaltamura/](https://www.linkedin.com/in/edoardoaltamura/).
 #
 # 📊 Statistics
+![](https://komarev.com/ghpvc/?username=edoaltamura&style=flat-square)
 > ![Edo's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edoaltamura&layout=donut)
