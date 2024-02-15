@@ -15,18 +15,6 @@ I am a Quantum Machine Learning engineer and research fellow in numerical multi-
 
 My research spans across two domains: quantum & high-performance computing algorithms, and computational cosmology for galaxy evolution.
 
-# 💡 What interests me
-- Data science pipelines at scale (100+TB)
-- Sustainability and climate welfare
-- Software engineered for HPC infrastructures
-- Optimization of HPC performance on parallel simulations
-- Quantum computing, machine learning and sustainability
-- Hydrodynamic simulations
-- Sub-grid physics schemes
-- Entropy distribution in clusters of galaxies
-- AGN feedback coupling between black holes and their environments
-- Sunyaev-Zeldovich effects
-
 # 🌍 Open-source
 I am passionately committed to the principles of _open science_ and _open data_, viewing them as the drivers of impactful innovation and discovery. My mission is to foster a collaborative scientific community, where the boundaries of knowledge are continually expanded through the free exchange of ideas and acknowledgement of intellectual property.
 
@@ -35,7 +23,7 @@ If you use software or data from my repositories, please acknowledge the source 
 # 🤝 Team-up 
 Thanks for viewing my profile and exploring my work! These projects thrive on the diversity and dynamism of open-source collaboration. Whether you're a seasoned coder or a curious beginner, your ideas and input could be the key to unlocking the next level of development. So please, delve into the code ☕, experiment, share your thoughts, and most importantly, ✨*get in touch!* ✨ I can't wait to see the unique perspective you'll bring to our collective journey through open science.
 
-#### 📫 Ping me at <edoardo.altamura@manchester.ac.uk>, and follow me on LinkedIn at [/in/edoardoaltamura/](https://www.linkedin.com/in/edoardoaltamura/).
+#### 📫 Ping me at <edoardo.altamura@stfc.ac.uk>, and follow me on LinkedIn at [/in/edoardoaltamura/](https://www.linkedin.com/in/edoardoaltamura/).
 #
 # 📊 Statistics
 ![](https://komarev.com/ghpvc/?username=edoaltamura&style=flat-square)
