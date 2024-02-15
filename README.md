@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to my Project Hub. 
 
-I am a Quantum Machine Learning engineer and research fellow in numerical multi-physics simulations with high-performance computing (HPC). As a physicist by training, I work at the Hartree Centre, part of the Science and Technology UK Research Council, in collaboration with IBM Quantum (Switzerland and UK offices). I am also affiliated with the Jodrell Bank Centre for Astrophysics (University of Manchester, UK) and I participate in the following collaboration consortia:
+I am a Quantum Machine Learning engineer and research fellow in numerical multi-physics simulations with high-performance computing (HPC). As a physicist by training, I work at the [Hartree Centre (STFC)](https://www.hartree.stfc.ac.uk/) in the UK and collaborate with **[IBM Quantum](https://www.ibm.com/quantum)** (Switzerland and UK offices). I am also affiliated with the [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) at the University of Manchester and I participate in the following collaboration consortia:
 - 🌌 [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research 
 - 🖧  Particles At heXascale (PAX) program in [ExCALIBUR](https://excalibur.ac.uk/)
 - 🛰️ [Euclid](https://www.euclid-ec.org/) space mission Consortium
@@ -13,7 +13,7 @@ I am a Quantum Machine Learning engineer and research fellow in numerical multi-
 - **Hourglass** (part of _SWprofile_) is coming soon! ⌛️ Look at the radial distribution of gas through a new lens. Build interpretable radial profiles and probe the baryonic physics shaping your galaxies.
 - **SWconnect** is coming soon! Organise the metadata, I/O files and workflow intermediate files of your complex simulation project in a systematic, memorable way. No more need to treasure-hunt for your cooling tables or output list!  
 
-My research spans across two domains: quantum & high-performance computing algorithms, and computational cosmology for galaxy evolution.
+My research spans two domains: quantum & high-performance computing algorithms, and computational cosmology for galaxy evolution.
 
 # 🌍 Open-source
 I am passionately committed to the principles of _open science_ and _open data_, viewing them as the drivers of impactful innovation and discovery. My mission is to foster a collaborative scientific community, where the boundaries of knowledge are continually expanded through the free exchange of ideas and acknowledgement of intellectual property.
