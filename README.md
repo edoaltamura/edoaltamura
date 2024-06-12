@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to my Project Hub. 
 
-I am a Quantum Software engineer and research fellow in numerical multi-physics simulations with high-performance computing (HPC). As a physicist by training, I work at the [Hartree Centre (STFC)](https://www.hartree.stfc.ac.uk/) in the UK and collaborate with **[IBM Quantum](https://www.ibm.com/quantum)** (Switzerland, UK and New York State offices). I am also affiliated with the [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) at the University of Manchester and I participate in the following collaboration consortia:
+I am a Quantum Software engineer and research fellow in numerical multi-physics simulations with high-performance computing (HPC). As a physicist by training, I work at the [Hartree Centre (STFC)](https://www.hartree.stfc.ac.uk/) in the UK and collaborate with **[IBM Quantum](https://www.ibm.com/quantum)** (Switzerland, UK and New York offices). I am also affiliated with the [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) at the University of Manchester and I participate in the following collaboration consortia:
 - 🌌 [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research 
 - 🖧  Particles At heXascale (PAX) program in [ExCALIBUR](https://excalibur.ac.uk/)
 - 🛰️ [Euclid](https://www.euclid-ec.org/) space mission Consortium
