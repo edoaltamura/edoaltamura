@@ -15,15 +15,17 @@ I am a core developer of **[Qiskit Machine Learning](https://github.com/qiskit-c
 - AIbio-UK - Jan 2024, Birmingham, UK
 
 ### 💼 Professional trajectory
-Previously, I was a post-doctoral research fellow at the University of Manchester - [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) - doing research in galaxy cluster astrophysics using numerical multi-physics simulations ([SWIFT](https://github.com/SWIFTSIM)) and high-performance computers. I continue to participate in the following collaborations and consortia:
+Previously, I was a post-doctoral research fellow at the University of Manchester - [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) - doing research in galaxy cluster astrophysics using numerical multi-physics simulations ([SWIFT](https://github.com/SWIFTSIM)) and high-performance computers. I participate in the following collaborations and consortia:
+- High-Energy Physics working group ([QC4HEP](https://indico.cern.ch/event/1484549/)) with IBM Quantum and CERN
+- [Euclid](https://www.euclid-ec.org/) space mission Consortium (Theory Science Working Group)
+- [CMB Stage-4](https://cmb-s4.org/) experiments Collaboration
+- [SKAO](https://www.skao.int/en/science-users/science-working-groups) science working groups (cosmology, extragalactic continuum and gravitational waves)
 - [Virgo Consortium](https://virgo.dur.ac.uk/) for Computational Cosmology Research 
 - Particles At heXascale (PAX) program within [ExCALIBUR](https://excalibur.ac.uk/) 
-- [Euclid](https://www.euclid-ec.org/) space mission Consortium (Theory Science Working Group)
-- [CMB Stage-4](https://cmb-s4.org/) experiments Collaboration 
 
 
 ### 🌍 Open-source
-I am passionately committed to the principles of _open science_ and _open data_, viewing them as drivers of impactful innovation and discovery. Are you interested in finding out more? Read the [European Commission open science principles](https://rea.ec.europa.eu/open-science_en). If specifically interested in how the EU shares open data, visit the Open Data Maturity reports and the Data Stories at [data.europa.eu - Publications Office of the EU](https://data.europa.eu/en/publications/overview), which I contributed to.
+I am passionately committed to the principles of _open science_ and _open data_, viewing them as drivers of impactful innovation and discovery. Are you interested in finding out more? Read the [European Commission open science principles](https://rea.ec.europa.eu/open-science_en). If you are specifically interested in how the EU shares open data, visit the Open Data Maturity reports and the Data Stories at [data.europa.eu - Publications Office of the EU](https://data.europa.eu/en/publications/overview), which I contributed to.
 
 If you use software or data from my repositories, please include a citation following the guidelines in `README.*`, `CITATION.bib` or `__cite__.py`. Get in touch for details or enquiries!
 
