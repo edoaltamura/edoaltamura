@@ -8,13 +8,14 @@ I am a core developer of **[Qiskit Machine Learning](https://github.com/qiskit-c
 > 📝 Find my research articles at [NASA ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-6973-1897&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?user=ThGKWoUAAAAJ&hl=en)
 
 
-### ✈️ Recent conferences and meetings
-- IEEE Quantum Week - Sep 2024, Montreal, Canada
-- Economist Impact Global Quantum Summit - Jun 2024, London, UK 
-- ISC High Performance - May 2024, Hamburg, Germany
-- AIbio-UK - Jan 2024, Birmingham, UK
+### 🗞️ Recent news
 
-### 💼 Professional trajectory
+📢 New paper! *Entropy plateaus can emerge from gas replacement at a characteristic halo mass in simulated groups and clusters of galaxies*
+ArXiv link: [https://arxiv.org/abs/2505.05675](https://arxiv.org/abs/2505.05675). Repo (code and data, open access): [https://github.com/edoaltamura/entropy-core-evolution](https://github.com/edoaltamura/entropy-core-evolution)
+
+![Group-core](https://github.com/edoaltamura/entropy-core-evolution/blob/main/img/banner_cluster.png)
+
+### 💼 Professional track
 Previously, I was a post-doctoral research fellow at the University of Manchester - [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) - doing research in galaxy cluster astrophysics using numerical multi-physics simulations ([SWIFT](https://github.com/SWIFTSIM)) and high-performance computers. I participate in the following collaborations and consortia:
 - High-Energy Physics working group ([QC4HEP](https://indico.cern.ch/event/1484549/)) with IBM Quantum and CERN
 - [Euclid](https://www.euclid-ec.org/) space mission Consortium (Theory Science Working Group)
