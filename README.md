@@ -11,6 +11,7 @@ I am a core developer of **[Qiskit Machine Learning](https://github.com/qiskit-c
 ### 🗞️ Recent news
 
 📢 New paper! *Entropy plateaus can emerge from gas replacement at a characteristic halo mass in simulated groups and clusters of galaxies*
+
 ArXiv link: [https://arxiv.org/abs/2505.05675](https://arxiv.org/abs/2505.05675). Repo (code and data, open access): [https://github.com/edoaltamura/entropy-core-evolution](https://github.com/edoaltamura/entropy-core-evolution)
 
 ![Group-core](https://github.com/edoaltamura/entropy-core-evolution/blob/main/img/banner_cluster.png)
