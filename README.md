@@ -10,9 +10,11 @@ I am a core developer of **[Qiskit Machine Learning](https://github.com/qiskit-c
 
 ### 🗞️ Recent news
 
-📢 New paper! *Entropy plateaus can emerge from gas replacement at a characteristic halo mass in simulated groups and clusters of galaxies*
+📢 New paper on representation learning! *Encoding molecular structures in quantum machine learning* [![arXiv](https://img.shields.io/badge/arXiv-2507.20422-b31b1b.svg)](https://arxiv.org/abs/2507.20422) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/stfc/quantum-molecular-encodings)
 
-ArXiv link: [https://arxiv.org/abs/2505.05675](https://arxiv.org/abs/2505.05675). Repo (code and data, open access): [https://github.com/edoaltamura/entropy-core-evolution](https://github.com/edoaltamura/entropy-core-evolution)
+📢 New paper on open source software! *Qiskit Machine Learning: an open-source library for quantum machine learning tasks at scale on quantum hardware and classical simulators* [![arXiv](https://img.shields.io/badge/arXiv-2505.17756-b31b1b.svg)](https://arxiv.org/abs/2505.17756) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiskit-community/qiskit-machine-learning)
+
+📢 New paper published in MNRAS! *Entropy plateaus can emerge from gas replacement at a characteristic halo mass in simulated groups and clusters of galaxies* [![arXiv](https://img.shields.io/badge/arXiv-2505.05675-b31b1b.svg)](https://arxiv.org/abs/2505.05675) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/edoaltamura/entropy-core-evolution)
 
 ![Group-core](https://github.com/edoaltamura/entropy-core-evolution/blob/main/img/banner_cluster.png)
 
