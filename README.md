@@ -2,7 +2,7 @@
 
 I work as a "quantum" software engineer at the [Hartree Centre (STFC)](https://www.hartree.stfc.ac.uk/) in the UK. I am also a visiting research fellow affiliated with the University of Cambridge - [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/) - fostering theoretical and computational chemistry research in partnership with STFC. Currently, I collaborate with [IBM Quantum](https://www.ibm.com/quantum) (Switzerland, UK and Ireland), [AstraZeneca](https://www.astrazeneca.co.uk/), and [Algorithmiq](https://algorithmiq.fi/).
 
-I am a core developer of **[Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning)**, a community product that can help you build and run machine learning workloads on quantum computers seamlessly using Qiskit.
+I am a lead developer of **[Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning)**, a community product that can help you build and run machine learning workloads on quantum computers seamlessly using Qiskit.
 
 
 > 📝 Find my research articles at [NASA ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-6973-1897&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?user=ThGKWoUAAAAJ&hl=en)
@@ -10,7 +10,7 @@ I am a core developer of **[Qiskit Machine Learning](https://github.com/qiskit-c
 
 ### 🗞️ Recent news
 
-📢 New paper on representation learning! *Encoding molecular structures in quantum machine learning* [![arXiv](https://img.shields.io/badge/arXiv-2507.20422-b31b1b.svg)](https://arxiv.org/abs/2507.20422) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/stfc/quantum-molecular-encodings)
+📢 New paper on representation learning accepted on MLST! *Encoding molecular structures in quantum machine learning* [![arXiv](https://img.shields.io/badge/arXiv-2507.20422-b31b1b.svg)](https://arxiv.org/abs/2507.20422) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/stfc/quantum-molecular-encodings)
 
 📢 New paper on open source software! *Qiskit Machine Learning: an open-source library for quantum machine learning tasks at scale on quantum hardware and classical simulators* [![arXiv](https://img.shields.io/badge/arXiv-2505.17756-b31b1b.svg)](https://arxiv.org/abs/2505.17756) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/qiskit-community/qiskit-machine-learning)
 
