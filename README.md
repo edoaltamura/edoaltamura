@@ -1,9 +1,6 @@
 # Hi there! 👋
 
-I work as a "quantum" software engineer at the [Hartree Centre (STFC)](https://www.hartree.stfc.ac.uk/) in the UK. I am also a visiting research fellow affiliated with the University of Cambridge - [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/) - fostering theoretical and computational chemistry research in partnership with STFC. Currently, I collaborate with [IBM Quantum](https://www.ibm.com/quantum) (Switzerland, UK and Ireland), [AstraZeneca](https://www.astrazeneca.co.uk/), and [Algorithmiq](https://algorithmiq.fi/). I serve as an Advisory Board Member at the [Unitary Foundation](https://unitary.foundation/), a non-profit organisation dedicated to building a global quantum technology ecosystem that benefits all.
-
-I am a lead developer of **[Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning)**, a community product that can help you build and run machine learning workloads on quantum computers seamlessly using Qiskit.
-
+I work in the Innovation Division of the UK [National Quantum Computing Centre](https://www.nqcc.ac.uk/). I am also a visiting research fellow affiliated with the University of Cambridge - [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/) - fostering theoretical and computational chemistry research in partnership with STFC. Currently, I collaborate with [IBM Quantum](https://www.ibm.com/quantum) (Switzerland, UK and Ireland), [AstraZeneca](https://www.astrazeneca.co.uk/), and [Algorithmiq](https://algorithmiq.fi/). I serve as an Advisory Board Member at the [Unitary Foundation](https://unitary.foundation/), a non-profit organisation dedicated to building a global quantum technology ecosystem that benefits all.
 
 > 📝 Find my research articles at [NASA ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-6973-1897&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?user=ThGKWoUAAAAJ&hl=en)
 
