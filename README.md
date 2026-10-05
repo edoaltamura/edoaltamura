@@ -37,4 +37,4 @@ If you use software or data from my repositories, please include a citation foll
 ### 🤝 Team-up 
 Whether you're a seasoned coder or a curious beginner, your ideas and input could be the key to unlocking the next level of development. So please, delve into the code ☕, experiment and share your thoughts by ✨*getting in touch!* ✨ 
 
-📫 Ping me at <edoardo.altamura@stfc.ac.uk> (primary), and follow me on LinkedIn at [/in/edoardoaltamura/](https://www.linkedin.com/in/edoardoaltamura/).
+📫 Ping me at <edoardo.altamura@riverlane.com> (primary), and follow me on LinkedIn at [/in/edoardoaltamura/](https://www.linkedin.com/in/edoardoaltamura/).
