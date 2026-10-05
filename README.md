@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I work in the Innovation Division of the UK [National Quantum Computing Centre](https://www.nqcc.ac.uk/). I am also a visiting research fellow affiliated with the University of Cambridge - [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/) - fostering theoretical and computational chemistry research in partnership with STFC. Currently, I collaborate with [IBM Quantum](https://www.ibm.com/quantum) (Switzerland, UK and Ireland), [AstraZeneca](https://www.astrazeneca.co.uk/), and [Algorithmiq](https://algorithmiq.fi/). I serve as an Advisory Board Member at the [Unitary Foundation](https://unitary.foundation/), a non-profit organisation dedicated to building a global quantum technology ecosystem that benefits all.
+I'm currently building the Quantum Error Correction software stack and the [Deltakit](https://github.com/Deltakit/deltakit) ecosystem. I am also a visiting research fellow affiliated with the University of Cambridge - [Yusuf Hamied Department of Chemistry](https://www.ch.cam.ac.uk/) - fostering theoretical and computational chemistry research and cross-sector partnerships. I collaborate with [IBM Quantum](https://www.ibm.com/quantum) (Switzerland, UK and Ireland), [AstraZeneca](https://www.astrazeneca.co.uk/), and [Algorithmiq](https://algorithmiq.fi/). I serve as an Advisory Board Member at the [Unitary Foundation](https://unitary.foundation/), a non-profit organisation dedicated to building a global quantum technology ecosystem that benefits all.
 
 > 📝 Find my research articles at [NASA ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0001-6973-1897&sort=date%20desc%2C%20bibcode%20desc) or [Google Scholar](https://scholar.google.com/citations?user=ThGKWoUAAAAJ&hl=en)
 
@@ -16,7 +16,11 @@ I work in the Innovation Division of the UK [National Quantum Computing Centre](
 ![Group-core](https://github.com/edoaltamura/entropy-core-evolution/blob/main/img/banner_cluster.png)
 
 ### 💼 Professional track
-Previously, I was a post-doctoral research fellow at the University of Manchester - [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) - doing research in galaxy cluster astrophysics using numerical multi-physics simulations ([SWIFT](https://github.com/SWIFTSIM)) and high-performance computers. I participate in the following collaborations and consortia:
+Previously, I worked in the Innovation Division of the UK [National Quantum Computing Centre](https://www.nqcc.ac.uk/) and the Hartree Centre, both STFC National Labs.
+
+Prior to that, I was a post-doctoral research fellow at the University of Manchester - [Jodrell Bank Centre for Astrophysics](https://www.jodrellbank.manchester.ac.uk/) - doing research in galaxy cluster astrophysics using numerical multi-physics simulations ([SWIFT](https://github.com/SWIFTSIM)) and high-performance computers. 
+
+I participate in the following collaborations and consortia:
 - High-Energy Physics working group ([QC4HEP](https://indico.cern.ch/event/1484549/)) with IBM Quantum and CERN
 - [Euclid](https://www.euclid-ec.org/) space mission Consortium (Theory Science Working Group)
 - [CMB Stage-4](https://cmb-s4.org/) experiments Collaboration
